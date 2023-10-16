@@ -30,7 +30,7 @@ def capture_game():
     global queue_timeout
     global in_queue
     global number
-    x, y, width, height = 50, 200, 380, 130
+    x, y, width, height = 200, 200, 400, 200
     
     screenshot = pyautogui.screenshot(region=(x, y, width, height))
     screenshot.save('screenshot.png')
