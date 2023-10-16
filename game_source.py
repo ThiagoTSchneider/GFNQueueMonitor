@@ -13,5 +13,5 @@ plague_tale_gfn = [plaguetale_exec_path, plaguetale_url_arguments]
 #Cyberpunk 2077
 
 cyberpunk_exec_path = <Insert here the GeforceNOWStreamer.exe path>
-cyberpunk_url_arguments = " --url-route=\"#?cmsId=100856911&launchSource=External&shortName=cyberpunk_2077_egs&parentGameId=e5fc8a96-2cda-49ef-bd13-513bdc68045b\""
+cyberpunk_url_arguments = "--url-route=\"#?cmsId=100856911&launchSource=External&shortName=cyberpunk_2077_egs&parentGameId=e5fc8a96-2cda-49ef-bd13-513bdc68045b\""
 cyberpunk_gfn = [cyberpunk_exec_path, cyberpunk_url_arguments]
