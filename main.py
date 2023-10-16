@@ -42,7 +42,7 @@ def launch_game(gfn_number):
         print("Launching Apex Legends on GFN..\n")
         subprocess.call(apex_legends_gfn, shell=True)
     elif gfn_number == "2":
-        print("Launching Fortnite on GFN..\n")
+        print("Launching Cyberpunk on GFN..\n")
         subprocess.call(cyberpunk_gfn, shell=True)
     elif gfn_number == "3":
         print("Launching Plague Tale on GFN..\n")
