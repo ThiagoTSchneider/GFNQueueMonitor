@@ -1,6 +1,5 @@
 import subprocess
 import pytesseract
-from game_source import apex_legends_gfn
 from game_settings import capture_game
 from game_settings import queue_pos
 from game_source import apex_legends_gfn
