@@ -16,7 +16,7 @@ O GFNQueueMonitor é uma ferramenta poderosa que permite aos jogadores do GeForc
 
 ## Como Usar 🚀
 
-1. **Configuração**: Configure o bot com suas informações do Telegram API e do Tesseract-OCR para começar a usá-lo.
+1. **Configuração**: Configure o bot com suas informações do Telegram API, o caminho do GeforceNowStreamer.exe e do Tesseract-OCR para começar a usá-lo.
 2. **Execução**: Execute o código e deixe-o monitorar a fila para você.
 3. **Aproveite**: Divirta-se jogando seus jogos favoritos sem preocupações!
 
