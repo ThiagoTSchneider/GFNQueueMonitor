@@ -3,9 +3,9 @@
 
 O GFNQueueMonitor é uma ferramenta poderosa que permite aos jogadores do GeForce Now monitorar e gerenciar a fila de espera do serviço de streaming de jogos da NVIDIA. Nunca mais perca sua vez de jogar seus jogos favoritos!
 
-##Aviso⚠️
--Você deve manter a tela do Geforce Now aberta
--Fecha-la Desativara o Programa
+## Aviso ⚠️
+- **Você deve manter a tela do Geforce Now aberta!**
+- **Fecha-la Desativara o Programa!**
 
 ## Funcionalidades 🔍
 
